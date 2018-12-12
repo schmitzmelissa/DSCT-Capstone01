@@ -44,9 +44,9 @@ _Note: There is a productivity scaling factor (the equivalence factor) that conv
 ## Project Approach
 1. __Data Cleaning:__ Check for missing data and determine the appropriate substitute for missing values. Examine any major outliers to see if they have significance to the data. Search for other abnormalities in the data set.
 
-2. __Initial Analysis:__ Exploratory data analysis with data visualization techniques to find interesting patterns. Look at potential correlations between different variables to determine how they might impact prediction results.
+2. __Exploratory Analysis:__ Exploratory data analysis with data visualization techniques to find interesting patterns. Look at potential correlations between different variables to determine how they might impact prediction results.
 
-3. __Core Analysis:__ TBD. Suspected regression to predict the biocapacity deficit or reserve based on the types of footprints and available resources. May also examine whether population is the only major impact on resources by looking at data per capita rather than gross data.
+3. __Predictive Analysis:__ TBD. Suspected regression to predict the biocapacity deficit or reserve based on the types of footprints and available resources. May also examine whether population is the only major impact on resources by looking at data per capita rather than gross data.
 
 ## Writeup
 The deliverables will include a PowerPoint presentation and a Github repository with the main Python code displayed in Jupyter notebooks with appropriate comments and notes.
