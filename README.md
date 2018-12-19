@@ -1,6 +1,6 @@
-# Capstone 01 – Predicting Biocapacity
-## Springboard Data Science Career Track
+# Predicting Biocapacity
 #### By Melissa Schmitz
+This is the first of two capstone projects as part of the Springboard Data Science Career Track.
 
 ## Useful Links
 - <a href="https://www.kaggle.com/footprintnetwork/ecological-footprint">Kaggle Dataset</a>
