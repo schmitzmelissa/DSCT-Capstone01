@@ -2,6 +2,12 @@
 ## Springboard Data Science Career Track
 #### By Melissa Schmitz
 
+## Useful Links
+- <a href="https://www.kaggle.com/footprintnetwork/ecological-footprint">Kaggle Dataset</a>
+- <a href="https://www.footprintnetwork.org/">Data Source Website</a>
+- <a href="https://www.footprintnetwork.org/resources/glossary/">Glossary of Relevant Terms</a>
+- <a href="https://www.youtube.com/watch?v=Z0qHA93oOSc">Video on GDP per Capita and HDI</a> (two important variables in the dataset)
+
 ## Background
 A nation’s ecological footprint is a measure of the ecological assets that its population requires in order to produce the natural resources it consumes and to absorb the waste generated. Consumables include plant-based food and fiber products, livestock and fish products, timber and forest products, and space for urban infrastructure. A type of waste would include carbon emissions.
 
@@ -18,7 +24,7 @@ The ecological footprint measure was invented by Mathis Wackernagel and William 
 - __Region__ – The major part of the world where the Country resides.
 - __Population__ – The number of people residing in that country, in millions.
 - __HDI__ – The Human Development Index, an assessment of the capability of a country’s inhabitants, shifting focus away from economics as a measure of success. It is measured with indicators such as life expectancy, education levels, and standard of living (GNI index).
-- __GDP per capita__ – The Gross Domestic Product, a monetary measure of the market value of all final goods and services which does not take into account the cost of living or inflation rates.
+- __GDP per capita__ – The Gross Domestic Product, a monetary measure of the market value of all final goods and services which does not take into account the cost of living or inflation rates. Per capita indicates per person (does not take into account distribution of income, which may skew the value in either direction).
 - __Cropland Footprint__ – The amount of cropland required to meet the crop demands of a country. Measured in global hectares.
 - __Grazing Footprint__ – The amount of land required within a country to meet the demands of animal grazing. Measured in global hectares.
 - __Forest Footprint__ – The amount of land within a country where trees are cut down for lumber. Measured in global hectares.
