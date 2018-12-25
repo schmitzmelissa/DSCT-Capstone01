@@ -1,6 +1,6 @@
-# Capstone 01 – Predicting Biocapacity
-## Springboard Data Science Career Track
+# Predicting Biocapacity
 #### By Melissa Schmitz
+This is the first of two capstone projects as part of the Springboard Data Science Career Track.
 
 ## Useful Links
 - <a href="https://www.kaggle.com/footprintnetwork/ecological-footprint">Kaggle Dataset</a>
@@ -42,10 +42,6 @@ The ecological footprint measure was invented by Mathis Wackernagel and William 
 - __Countries Required__ – The number of countries required to sustain the consumption of a single country.
 
 _Note: There is a productivity scaling factor (the equivalence factor) that converts a specific land type into a universal unit of biologically productive area, a global hectare. In a given year, the equivalence factors are the same for all countries._
-
-[<a href="https://www.footprintnetwork.org/resources/glossary/">link to full glossary of relevant terms</a>]
-
-[<a href="https://www.kaggle.com/footprintnetwork/ecological-footprint/home">link to dataset</a>]
 
 ## Project Approach
 1. __Data Cleaning:__ Check for missing data and determine the appropriate substitute for missing values. Examine any major outliers to see if they have significance to the data. Search for other abnormalities in the data set.
