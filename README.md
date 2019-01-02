@@ -7,6 +7,7 @@ This is the first of two capstone projects as part of the Springboard Data Scien
 - <a href="https://www.footprintnetwork.org/">Data Source Website</a>
 - <a href="https://www.footprintnetwork.org/resources/glossary/">Glossary of Relevant Terms</a>
 - <a href="https://www.youtube.com/watch?v=Z0qHA93oOSc">Video on GDP per Capita and HDI</a> (two important variables in the dataset)
+- <a href="https://github.com/schmitzmelissa/DSCT-Capstone01/blob/master/Data%20Wrangling%20Checkpoint.pdf">Data Cleaning Process</a>
 
 ## Background
 A nation’s ecological footprint is a measure of the ecological assets that its population requires in order to produce the natural resources it consumes and to absorb the waste generated. Consumables include plant-based food and fiber products, livestock and fish products, timber and forest products, and space for urban infrastructure. A type of waste would include carbon emissions.
